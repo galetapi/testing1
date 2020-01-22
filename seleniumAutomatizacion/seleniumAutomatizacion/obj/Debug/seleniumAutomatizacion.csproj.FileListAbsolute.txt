@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\seleniumAutomatizacion.exe.config
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\seleniumAutomatizacion.exe
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\seleniumAutomatizacion.pdb
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\WebDriver.dll
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\WebDriver.xml
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\obj\Debug\seleniumAutomatizacion.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\obj\Debug\seleniumAutomatizacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\obj\Debug\seleniumAutomatizacion.csproj.CopyComplete
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\obj\Debug\seleniumAutomatizacion.exe
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\obj\Debug\seleniumAutomatizacion.pdb
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\WebDriver.Support.dll
+C:\Users\kevin\source\repos\seleniumAutomatizacion\seleniumAutomatizacion\bin\Debug\WebDriver.Support.xml
